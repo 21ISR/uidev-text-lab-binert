@@ -35,6 +35,7 @@ p {
     font-size: 14pt;
 }
 a {
+    text-decoration: none;
     color: #1a73e8;
 }
 a:hover {
